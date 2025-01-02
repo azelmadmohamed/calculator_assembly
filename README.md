@@ -16,7 +16,7 @@ Language: Assembler for high performance and low-level control
 Optimization: Efficient memory usage and processing speed
 Design: Minimalistic and functional user interface
 Want to explore more?
-👉 Check out my GitHub for this and other exciting projects: [https://lnkd.in/evkm8RfX]
+👉 Check out my GitHub for this and other exciting projects:[https://shorturl.at/HWubq]
 I’m always open to feedback, suggestions, and collaboration opportunities! Let me know your thoughts. 💡
 
 #AssemblyLanguage #Calculator #LowLevelProgramming #Project #YouCode #SoftwareDevelopment
